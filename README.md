@@ -25,20 +25,6 @@ Power BI · Excel · Tableau
 
 ---
 
-### GitHub Analytics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-girish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-girish&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush-girish&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### Certifications
 
 - **Google Data Analytics Specialization** — Google
