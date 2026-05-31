@@ -12,23 +12,6 @@
 
 ---
 
-### Connect with me
-
-<p>
-  <a href="https://www.linkedin.com/in/dhanush-girish/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/dhanush_girish/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/dhanush-girish">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;&nbsp;
-  <code>mail.dhanushgirish@gmail.com</code>
-</p>
-
----
-
 ### Languages and Tools
 
 <p>
@@ -36,14 +19,11 @@
 </p>
 
 **Data & BI** &nbsp;→&nbsp;
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoftexcel&logoColor=white)
+<img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=tableau&logoColor=E97627" alt="Tableau" />
+<img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoftexcel&logoColor=217346" alt="Excel" />
 
-**AI & ML** &nbsp;→&nbsp;
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-000000?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square)
+**AI & ML** &nbsp;→&nbsp; LLMs · RAG Pipelines · Prompt Engineering · Vector Databases
 
 ---
 
@@ -59,13 +39,13 @@
 ### GitHub Analytics
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-girish&show_icons=true&theme=dark&hide_border=true&count_private=true&icon_color=ffffff&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanush-girish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-girish&layout=compact&theme=dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-girish&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush-girish&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush-girish&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -83,12 +63,19 @@
 ### Let's Connect
 
 I'm always open to collaborating on **AI/ML projects**, **open-source contributions**, or **data-driven tools**.  
-Whether you have a cool idea, a job opportunity, or just want to talk tech — reach out at **mail.dhanushgirish@gmail.com**
+Whether you have a cool idea, a job opportunity, or just want to talk tech — feel free to reach out.
 
 <p>
   <a href="https://www.linkedin.com/in/dhanush-girish/">
-    <img src="https://img.shields.io/badge/Connect-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/dhanush_girish/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/dhanush-girish">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  <code>mail.dhanushgirish@gmail.com</code>
 </p>
 
 <p>
