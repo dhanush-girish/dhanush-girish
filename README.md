@@ -19,9 +19,9 @@
 </p>
 
 **Data & BI** &nbsp;→&nbsp; 
-<img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI" />
-<img src="https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=tableau&logoColor=E97627" alt="Tableau" />
-<img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoftexcel&logoColor=217346" alt="Excel" />
+<img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=E97627" alt="Tableau" />
+<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=217346" alt="Excel" />
 
 **AI & ML** &nbsp;→&nbsp; LLMs · RAG Pipelines · Prompt Engineering · Vector Databases
 
