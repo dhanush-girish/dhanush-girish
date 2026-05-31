@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=python,r,javascript,nextjs,react,nodejs,supabase,postgres,vercel,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
-**Data & BI** &nbsp;→&nbsp;
+**Data & BI** &nbsp;→&nbsp; 
 <img src="https://img.shields.io/badge/Power_BI-000000?style=flat-square&logo=powerbi&logoColor=F2C811" alt="Power BI" />
 <img src="https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=tableau&logoColor=E97627" alt="Tableau" />
 <img src="https://img.shields.io/badge/Excel-000000?style=flat-square&logo=microsoftexcel&logoColor=217346" alt="Excel" />
