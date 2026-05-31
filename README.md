@@ -61,6 +61,4 @@ Whether you have a cool idea, a job opportunity, or just want to talk tech — f
   <code>mail.dhanushgirish@gmail.com</code>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=dhanush-girish&style=flat-square&color=000000" alt="Profile Views" />
-</p>
+
