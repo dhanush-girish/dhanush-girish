@@ -25,15 +25,6 @@ Power BI · Excel · Tableau
 
 ---
 
-### Projects
-
-- **AI Support Agent** — Context-aware chatbot with a custom RAG pipeline, vector databases, and secure OAuth + REST API integration
-- **AI Resume Builder** — Live SaaS app (Next.js + Supabase + AI APIs) for automated resume generation, deployed on Vercel
-- **AI Code Review Tool** — Internal tool for automated repo analysis and code feedback, with Clerk auth and Neon persistence
-- **Letterboxd Wrapped** — Python data enrichment pipeline using TMDb API for extended movie metadata analysis
-
----
-
 ### GitHub Analytics
 
 <p>
