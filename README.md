@@ -7,7 +7,7 @@
 - Building AI-powered applications and data pipelines with **Python**, **RAG**, and **LLMs**
 - Full-stack development experience with **Next.js**, **Supabase**, and **Vercel**
 - Turning raw data into insights using **Power BI**, **Tableau**, and **SQL**
-- M.Sc. candidate in **Data Science & AI** · BCA graduate from **Yenepoya University**
+- M.Sc. candidate in **Data Science & Product Development** · BCA graduate from **Yenepoya University**
 - Currently exploring machine learning, generative AI, and open-source tooling
 
 ---
