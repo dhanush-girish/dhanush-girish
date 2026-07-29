@@ -43,7 +43,6 @@ Whether you have a cool idea, a job opportunity, or just want to talk tech — f
 <p>
   <a href="https://www.linkedin.com/in/dhanush-girish/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/dhanush_girish/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/dhanush-girish"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;
   <code>mail.dhanushgirish@gmail.com</code>
 </p>
 
